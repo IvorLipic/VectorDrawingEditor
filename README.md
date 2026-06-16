@@ -77,4 +77,6 @@ Composites can be nested. Example files are in the `texts_svgs/` directory.
 
 ## Acknowledgements
 
+University of Zagreb, Faculty of Electrical Engineering and Computing (FER)
+
 Course: [Oblikovni obrasci u programiranju](https://www.fer.unizg.hr/predmet/ooup)
